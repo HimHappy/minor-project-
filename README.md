@@ -1,4 +1,4 @@
-# Team Binaries go! - SIH 2020 Winner [ NITRR ]
+# solo practice project - 2021
 
 ## The problem Kisan Mitra solves
 1. Connects farmers directly to the buyers.
@@ -11,14 +11,9 @@
 1. The entire product is seamlessly integrated with the SMS service.
 
 
-## Team BINARIES:
+## :
 
-1. Rushikesh Pupale
-1. Naveen Sundar
-1. Rishab
-1. Adarsh Shrivastav
-1. Abilasha 
-1. Sonal Suman
+1. Himanshu Rajak
 
 ## Screenshots of app:
 
